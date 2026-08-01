@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large/generated model files (optional — see note in README)
+# Uncomment the line below if you don't want to commit the trained model
+# crop_yield_model.pkl
+
+# Environment variables (if you add any secrets later)
+.env
