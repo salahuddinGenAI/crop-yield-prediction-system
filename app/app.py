@@ -110,11 +110,6 @@ with st.sidebar:
         """
     )
 
-    st.caption(
-        "ℹ️ Tip: update the section above with your actual logged metrics "
-        "(RMSE / MAE / R²) from Milestone 4-5 for a complete picture."
-    )
-
     st.divider()
 
     if feature_importance_df is not None:
