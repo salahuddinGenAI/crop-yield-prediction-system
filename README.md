@@ -2,7 +2,7 @@
 
 A machine learning system that predicts expected crop yield (tons/hectare) from environmental and farming conditions — built end-to-end from synthetic data generation through EDA, model comparison, and a deployed Streamlit interface.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.12.10-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5.0-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -108,11 +108,10 @@ crop-yield-prediction-system/
 
 | Model | MAE | RMSE | R² |
 |---|---|---|---|
-| Linear Regression (baseline) | _fill in_ | _fill in_ | _fill in_ |
-| Decision Tree Regressor | _fill in_ | _fill in_ | _fill in_ |
-| Random Forest Regressor | _fill in_ | _fill in_ | _fill in_ |
+| Linear Regression (baseline) | 2.483607  | 4.645891   | 0.963901 |
+| Decision Tree Regressor | 1.512094   | 3.727389   | 0.976764 |
+| Random Forest Regressor | 1.425270   | 3.564084   | 0.978755 |
 
-_Update this table with your actual logged metrics from Milestone 4-5._
 
 **Selected model:** Random Forest Regressor — chosen for its ability to capture the non-linear rainfall/temperature relationships identified during EDA.
 
