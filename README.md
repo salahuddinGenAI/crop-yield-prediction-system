@@ -13,7 +13,7 @@ A machine learning system that predicts expected crop yield (tons/hectare) from 
 
 Agricultural productivity depends on a complex interplay of environmental conditions and farming practices. This project builds a **regression-based ML pipeline** that predicts crop yield using rainfall, temperature, humidity, soil type, crop type, fertilizer choice, irrigation status, and region — then wraps the trained model in an interactive web app for real-time predictions.
 
-**Live demo:** _[add your deployed Streamlit URL here once deployed]_
+[**Live demo:**] _(https://crop-yield-prediction-system-nscpcuveeq7e4y5olvjo2r.streamlit.app/)_
 
 ---
 
