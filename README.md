@@ -34,7 +34,8 @@ Agricultural productivity depends on a complex interplay of environmental condit
 
 ## 🖼️ Screenshot
 
-![App Screenshot]("F:\Machine Learning projects\Crop Yield Prediction System\images\Crop-Yield-Predictor-07-30-2026_11_57_PM.png")
+![App Screenshot] 
+<img width="1366" height="1934" alt="Crop-Yield-Predictor-07-30-2026_11_57_PM" src="https://github.com/user-attachments/assets/ed2d65a5-3ee3-4d8b-9ec5-f1c50d93043e" />
 
 ---
 
